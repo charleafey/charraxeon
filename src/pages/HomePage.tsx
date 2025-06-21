@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import Container from 'react-bootstrap/Container';
+import headerImage from '../assets/images/business-card-front.jpeg';
 
 const Title = styled.h1`
     font-size: 4em;
@@ -10,11 +11,19 @@ const Title = styled.h1`
 
 const IntroWrapper = styled.section`
     text-align: center;
-`; // background: papayawhip;
+    height: 100vh;
+    max-width: 700px;
+    padding: 0 1em 0 1em;
+`;
+
+const HeaderImage = styled.img`
+    margin-top: 5em;
+    width: 85%;
+    max-width: 400px;
+`;
 
 const PageContainer = styled(Container)`
     background: papayawhip;
-    padding: 4em;
     align-items: center;
     justify-content: center;
     display: flex;
@@ -24,6 +33,7 @@ export const HomePage: React.FC = () => {
     return (
         <PageContainer fluid="md">
             <IntroWrapper>
+                <HeaderImage src={headerImage} />
                 <Title>charraxeon</Title>
                 <p>(they/them)</p>
                 <p>

@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+build/
+dist/
+.next/ # For Next.js projects
+.cache/ # For Gatsby or Parcel projects
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# TypeScript cache file
+*.tsbuildinfo
+
+# IDE specific files
+.vscode/ # For VS Code
+
+# Test coverage reports
+coverage/
+.nyc_output/
+
+# Optional: if you use a specific bundler or tool that generates cache files
+.parcel-cache/
+.rpt2_cache/
+
+# Optional: Output of 'npm pack'
+*.tgz

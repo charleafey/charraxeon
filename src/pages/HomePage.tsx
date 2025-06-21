@@ -14,16 +14,19 @@ const IntroWrapper = styled.section`
     height: 100vh;
     max-width: 700px;
     padding: 0 1em 0 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 `;
 
 const HeaderImage = styled.img`
-    margin-top: 5em;
     width: 85%;
     max-width: 400px;
 `;
 
 const PageContainer = styled(Container)`
-    background: papayawhip;
+    background: rgb(255, 243, 213);
     align-items: center;
     justify-content: center;
     display: flex;
@@ -35,11 +38,13 @@ export const HomePage: React.FC = () => {
             <IntroWrapper>
                 <HeaderImage src={headerImage} />
                 <Title>charraxeon</Title>
-                <p>(they/them)</p>
+                <p>
+                    <i>(they/them)</i>
+                </p>
                 <p>
                     Hi there, I&apos;m Charley! I create illutrations and merchandise with a warm and soft style.
                     I&apos;m inspired by how light forms colour and shapes around me, and do my best to imbue some of
-                    its magic into my artwork. I also love cats and nature!
+                    its magic into my artwork.
                 </p>
             </IntroWrapper>
         </PageContainer>

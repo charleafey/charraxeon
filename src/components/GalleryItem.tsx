@@ -66,6 +66,10 @@ const OverlayText = styled.div`
     text-wrap: wrap;
     max-width: 210px;
     padding: 20px;
+
+    p {
+        margin: 5px;
+    }
 `;
 
 export const GalleryItem = ({ details, index }: { details: Illustration; index: number }) => {
@@ -84,7 +88,11 @@ export const GalleryItem = ({ details, index }: { details: Illustration; index: 
 
             <FadeInWrapper isOverlay={isOverlay}>
                 <OverlayText>
-                    <p>{details.category}</p>
+                    <p>{details.title}</p>
+                    <p>✿</p>
+                    <p>
+                        <i>{details.category}</i>
+                    </p>
                     <p>
                         <i>{details.date}</i>
                     </p>

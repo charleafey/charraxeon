@@ -178,7 +178,7 @@ export const galleryImages: Illustration[] = [
         title: 'Raiden and Ei',
         category: 'Genshin Impact',
         preview: Preview23,
-        date: '',
+        date: '2024',
     },
     {
         title: 'Zhongli - Chrysanthemum Tea',

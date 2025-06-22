@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/charraxeon/static/css/main.f855e6bc.css",
-    "main.js": "/charraxeon/static/js/main.7a167005.js",
+    "main.js": "/charraxeon/static/js/main.577f9ba8.js",
     "static/js/453.400e8b58.chunk.js": "/charraxeon/static/js/453.400e8b58.chunk.js",
+    "static/media/1-una-ciel-beach.PNG": "/charraxeon/static/media/1-una-ciel-beach.31ad5d8809d6ab9f44e9.PNG",
+    "static/media/3-ciel-greenhouse.PNG": "/charraxeon/static/media/3-ciel-greenhouse.775d65dac08dc4fd6ca7.PNG",
+    "static/media/2-una-ciel-forest.PNG": "/charraxeon/static/media/2-una-ciel-forest.dd8d6f27807302e577e1.PNG",
     "static/media/business-card-front.jpeg": "/charraxeon/static/media/business-card-front.789e4c262299a4045147.jpeg",
     "index.html": "/charraxeon/index.html",
     "main.f855e6bc.css.map": "/charraxeon/static/css/main.f855e6bc.css.map",
-    "main.7a167005.js.map": "/charraxeon/static/js/main.7a167005.js.map",
+    "main.577f9ba8.js.map": "/charraxeon/static/js/main.577f9ba8.js.map",
     "453.400e8b58.chunk.js.map": "/charraxeon/static/js/453.400e8b58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.7a167005.js"
+    "static/js/main.577f9ba8.js"
   ]
 }

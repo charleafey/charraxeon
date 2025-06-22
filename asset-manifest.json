@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/charraxeon/static/css/main.f855e6bc.css",
-    "main.js": "/charraxeon/static/js/main.458fdb91.js",
+    "main.js": "/charraxeon/static/js/main.f67a0734.js",
     "static/js/453.400e8b58.chunk.js": "/charraxeon/static/js/453.400e8b58.chunk.js",
     "static/media/PORTFOLIO (all)  - 13 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 13 of 26.6f425d0eef681beb0205.jpeg",
     "static/media/PORTFOLIO (all)  - 6 of 7.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 6 of 7.1f413cc641ce5ffbc981.jpeg",
@@ -39,11 +39,11 @@
     "static/media/PORTFOLIO (all)  - 14 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 14 of 26.29f6cf07af3ebd238ae3.jpeg",
     "index.html": "/charraxeon/index.html",
     "main.f855e6bc.css.map": "/charraxeon/static/css/main.f855e6bc.css.map",
-    "main.458fdb91.js.map": "/charraxeon/static/js/main.458fdb91.js.map",
+    "main.f67a0734.js.map": "/charraxeon/static/js/main.f67a0734.js.map",
     "453.400e8b58.chunk.js.map": "/charraxeon/static/js/453.400e8b58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.458fdb91.js"
+    "static/js/main.f67a0734.js"
   ]
 }

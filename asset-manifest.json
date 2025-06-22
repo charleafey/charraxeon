@@ -1,19 +1,23 @@
 {
   "files": {
     "main.css": "/charraxeon/static/css/main.f855e6bc.css",
-    "main.js": "/charraxeon/static/js/main.d3336bbb.js",
+    "main.js": "/charraxeon/static/js/main.458fdb91.js",
     "static/js/453.400e8b58.chunk.js": "/charraxeon/static/js/453.400e8b58.chunk.js",
-    "static/media/1-una-ciel-beach.PNG": "/charraxeon/static/media/1-una-ciel-beach.31ad5d8809d6ab9f44e9.PNG",
-    "static/media/3-ciel-greenhouse.PNG": "/charraxeon/static/media/3-ciel-greenhouse.775d65dac08dc4fd6ca7.PNG",
-    "static/media/2-una-ciel-forest.PNG": "/charraxeon/static/media/2-una-ciel-forest.dd8d6f27807302e577e1.PNG",
     "static/media/PORTFOLIO (all)  - 13 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 13 of 26.6f425d0eef681beb0205.jpeg",
+    "static/media/PORTFOLIO (all)  - 6 of 7.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 6 of 7.1f413cc641ce5ffbc981.jpeg",
+    "static/media/PORTFOLIO (all)  - 1 of 7.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 1 of 7.f3ac0255c05c121623e3.jpeg",
+    "static/media/PORTFOLIO (all)  - 3 of 7.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 3 of 7.b57a1ca575ff5097ba86.jpeg",
     "static/media/PORTFOLIO (all)  - 17 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 17 of 26.6d7319da914e4226820c.jpeg",
     "static/media/PORTFOLIO (all)  - 16 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 16 of 26.4a162bbfc1af1bda8869.jpeg",
     "static/media/PORTFOLIO (all)  - 1 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 1 of 26.821ef638f44b48003605.jpeg",
+    "static/media/PORTFOLIO (all)  - 7 of 7.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 7 of 7.4bfa0041e02594066813.jpeg",
     "static/media/PORTFOLIO (all)  - 11 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 11 of 26.be9fff4f6c523b4043d5.jpeg",
     "static/media/PORTFOLIO (all)  - 6 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 6 of 26.6ea5ce55086256e845c8.jpeg",
+    "static/media/PORTFOLIO (all)  - 5 of 7.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 5 of 7.7aa61d4046ca637d4efe.jpeg",
+    "static/media/PORTFOLIO (all)  - 4 of 7.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 4 of 7.ec4502a86f25f64de2a8.jpeg",
     "static/media/PORTFOLIO (all)  - 10 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 10 of 26.3f39967195bae2d3dbce.jpeg",
     "static/media/PORTFOLIO (all)  - 9 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 9 of 26.0639469465f831d4c659.jpeg",
+    "static/media/PORTFOLIO (all)  - 2 of 7.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 2 of 7.f175e07097dcb6cef6d1.jpeg",
     "static/media/PORTFOLIO (all)  - 8 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 8 of 26.d984d288a9faf7d0b803.jpeg",
     "static/media/PORTFOLIO (all)  - 20 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 20 of 26.93aa5258df882f7310f9.jpeg",
     "static/media/PORTFOLIO (all)  - 3 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 3 of 26.8463dda57812a5e0ea79.jpeg",
@@ -35,11 +39,11 @@
     "static/media/PORTFOLIO (all)  - 14 of 26.jpeg": "/charraxeon/static/media/PORTFOLIO (all)  - 14 of 26.29f6cf07af3ebd238ae3.jpeg",
     "index.html": "/charraxeon/index.html",
     "main.f855e6bc.css.map": "/charraxeon/static/css/main.f855e6bc.css.map",
-    "main.d3336bbb.js.map": "/charraxeon/static/js/main.d3336bbb.js.map",
+    "main.458fdb91.js.map": "/charraxeon/static/js/main.458fdb91.js.map",
     "453.400e8b58.chunk.js.map": "/charraxeon/static/js/453.400e8b58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d3336bbb.js"
+    "static/js/main.458fdb91.js"
   ]
 }
